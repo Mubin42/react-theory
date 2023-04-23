@@ -1,6 +1,6 @@
 import React from "react";
-import Setup from "./components/proptypes";
-
+import Setup from "./components/useMemo-useCallback";
+ 
 const App = () => {
   return (
     <div className="container">
